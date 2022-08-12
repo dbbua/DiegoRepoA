@@ -3,4 +3,4 @@ console.log(1)paso7
 =======
 console.log(1)
 mas contenido
->>>>>>> e3ee50f891d1208a162b9fd3c9341c469d753d3f
+
